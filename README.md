@@ -1,9 +1,9 @@
 # Inverted-Reapts-finder
-Find inverted repets in genomic DNA sequence.
+Searching all the inverted repeats in the DNA sequence.
 
 # Main Function Details
-IRfinderAll.m is an demo for how to use Inverted Repeats finder in genomic DNA sequence.
-IRFinderS.m is an ready-made function for use.
+IRfinderAll.m is an demo for how to use Inverted Repeats finder in genomic DNA sequence.//
+IRFinderS.m is an ready-made function for use.//
 findIRiniS.m is an main function for IR.
 IRCodlocDyMatc.m is an locally dynamic function for sequence alignment.
 
