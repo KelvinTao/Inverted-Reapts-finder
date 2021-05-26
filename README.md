@@ -1,4 +1,4 @@
-# Inverted-Reapts-finder
+# Inverted-Reapts-finder_DNA
 Searching all the inverted repeats in the DNA sequences starting with 6 consecutive matched characters.
 
 # Main Function Details
